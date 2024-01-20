@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @xxzahhxx
+- 👀 I’m interested in making stuff
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anything made in python
+- 📫 How to reach me xxzahhxx@gmail.com
+- 😄 Pronouns: 💀 im not gay
+- ⚡ Fun fact: i kinda hate C#
