@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @xxzahhxx
-- 👀 I’m interested in making stuff
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything made in python
+- Hi, I’m @xxzahhxx
+- I’m interested in making stuff
+- I’m currently learning Python
+- I’m looking to collaborate on anything made in python
+- I also know pygame and pyautogui very well
 - 📫 How to reach me xxzahhxx@gmail.com
-- 😄 Pronouns: 💀 im not gay
-- ⚡ Fun fact: i kinda hate C#
+- Fun fact: i kinda hate C#
+- All of my links-
+- Stack Overflow: https://stackoverflow.com/users/23273413/xxzahhxx
+- Sololearn: https://www.sololearn.com/en/profile/31217148
+- CodeWars: https://www.codewars.com/users/xxzahhxx
+- Replit: https://replit.com/@xxzahhxx
