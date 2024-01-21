@@ -3,7 +3,7 @@
 - I’m currently learning Python
 - I’m looking to collaborate on anything made in python
 - I also know pygame and pyautogui very well
-- 📫 How to reach me xxzahhxx@gmail.com
+- How to reach me xxzahhxx@gmail.com
 - Fun fact: i kinda hate C#
 - All of my links-
 - Stack Overflow: https://stackoverflow.com/users/23273413/xxzahhxx
