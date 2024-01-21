@@ -1,6 +1,6 @@
 - Hi, I’m @xxzahhxx
 - I’m interested in making stuff
-- I’m currently learning C++
+- I’m currently learning C
 - How to reach me xxzahhxx@gmail.com
 - Fun fact: i kinda hate C#
 - All of my links-
