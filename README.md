@@ -1,10 +1,4 @@
 - Hi, I’m @xxzahhxx
 - I’m interested in making stuff
-- I’m currently learning C
+- I’m currently learning C and SQL
 - How to reach me xxzahhxx@gmail.com
-- Fun fact: i kinda hate C#
-- All of my links-
-- Stack Overflow: https://stackoverflow.com/users/23273413/xxzahhxx
-- Sololearn: https://www.sololearn.com/en/profile/31217148
-- CodeWars: https://www.codewars.com/users/xxzahhxx
-- Replit: https://replit.com/@xxzahhxx
